@@ -26,7 +26,7 @@ public class Journal
     public void SaveToFile()
     {
         Console.WriteLine("\nName your Journal: ");
-        string fileName = Console.ReadLine();
+        string fileName = Console.ReadLine() + ".txt";
 
         Console.WriteLine("Saving to file...\n");
 
