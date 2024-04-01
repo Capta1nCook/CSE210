@@ -14,7 +14,7 @@ class Program
             Console.Clear();
             Console.WriteLine(scripture.GetDisplayText());
 
-            Console.WriteLine("Press enter to continue or type 'quit' to finish:\n");
+            Console.WriteLine("\nPress enter to continue or type 'quit' to finish:\n");
             choice = Console.ReadLine();
             if (choice == "quit")
             {
