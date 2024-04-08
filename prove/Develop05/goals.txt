@@ -1,0 +1,4 @@
+280
+Eternal Goal:walking,walk each day,10
+Checklist Goal,call grandma 3 times,call grandma 3 times,10,50,3,3
+Simple Goal,running,run 1 mile,100,True

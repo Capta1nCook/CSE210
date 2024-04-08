@@ -1,0 +1,4 @@
+0
+Simple Goal,homework,do my homework daily,50,False
+Eternal Goal:Temple,Attend the temple eadh week,100
+Checklist Goal,reading,read a book 3 times a day,10,50,3,0
